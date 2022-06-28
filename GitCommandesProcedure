@@ -4,4 +4,9 @@ Third  : git config --global user.name  "ghiathphd"
 Forth  : git add.  // to add all the files on the file to the repository
 Fifth  : go on line and create a new repositry
 the token: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
-
+git remote "GitTestProcedure" "https://github.com/Ghiathphd/GitTestProcedure.git"
+git remote add origin https://github.com/Ghiathphd/GitTestProcedure.git
+git remote show origin
+git push -u origin master
+git remote -v
+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  : NewToken
