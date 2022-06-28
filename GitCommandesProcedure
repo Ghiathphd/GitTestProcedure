@@ -2,4 +2,4 @@ First  : git init
 Second : git config --global user.email "ghiathphd@gmail.com"
 Third  : git config --global user.name  "ghiathphd"
 Forth  : git add.  // to add all the files on the file to the repository
-
+Fifth  : go on line and create a new repositry
